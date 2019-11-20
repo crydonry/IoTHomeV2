@@ -22,9 +22,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-
     }
     public void toFan(View view) {
+
         startActivity(new Intent(MainActivity.this,Fan.class));
     }
     public void toLightRGB(View view) {
