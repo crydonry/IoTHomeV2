@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "552941355967",
+    "firebase_url": "https://iothome-49684.firebaseio.com",
+    "project_id": "iothome-49684",
+    "storage_bucket": "iothome-49684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552941355967:android:3d53a4e7f7e878144bd70a",
+        "android_client_info": {
+          "package_name": "com.companyname.iothome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552941355967-t0kh0oh2uive72ed111vnerg59bnfdi1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.companyname.iothome",
+            "certificate_hash": "fee1c8135180e6b618fd7240b6462f0f171606b2"
+          }
+        },
+        {
+          "client_id": "552941355967-55la3h7k8ibsq125rq03q7d0h4n6ail4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhcCsz8939di1cNMx4hm-0XkwNqskCl5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552941355967-55la3h7k8ibsq125rq03q7d0h4n6ail4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
